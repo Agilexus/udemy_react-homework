@@ -1,0 +1,28 @@
+.header {
+  margin: 0 auto;
+  width: 1200px;
+  position: relative;
+}
+
+.logo {
+  position: absolute;
+  top: 33px;
+  left: 24px;
+}
+
+.page-list {
+  margin: 0;
+  height: 100%;
+  display: flex;
+  margin-left: 60px;
+  list-style-type: none;
+  padding: 52px 0 10px 0;
+  align-items: flex-end;
+}
+
+.page-link {
+  color: #fff;
+  text-decoration: none;
+  margin-right: 40px;
+  font-size: 12px;
+}

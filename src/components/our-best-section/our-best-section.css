@@ -1,0 +1,15 @@
+ul {
+  padding-inline-start: 0;
+}
+
+.our-best {
+  width: 100%;
+  background: url('../../../public/img/paper-bg.jpg') no-repeat center/cover;
+  text-align: center;
+}
+
+.our-best-title {
+  color: #000;
+  font-size: 24px;
+  font-weight: 400;
+}

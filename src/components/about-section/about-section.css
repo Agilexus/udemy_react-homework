@@ -1,0 +1,17 @@
+.about {
+  text-align: center;
+}
+
+.about-title {
+  color: #000;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.about-text {
+  margin: 40px auto 0 auto;
+  width: 590px;
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+}

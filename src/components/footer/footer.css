@@ -1,0 +1,26 @@
+.footer {
+  margin: 0 auto;
+  max-width: 802px;
+  position: relative;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.page-list.dark {
+  margin: 0;
+  height: 100%;
+  display: flex;
+  margin-left: 60px;
+  list-style-type: none;
+  padding-left: 0;
+  padding-top: 52px;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.logo.dark {
+  position: absolute;
+  top: 33px;
+  left: 218px;
+}
+

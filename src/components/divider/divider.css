@@ -1,0 +1,27 @@
+.divider {
+  width: 200px;
+  height: 30px;
+  margin: 20px auto 0 auto;
+  position: relative;
+}
+
+.line {
+  background: #000;
+  height: 1px;
+  width: 60px;
+  position: absolute;
+}
+
+.line.white {
+  background: #fff;
+}
+
+.line-left {
+  top: 15px;
+  left: 0;
+}
+
+.line-right {
+  top: 15px;
+  right: 0;
+}
